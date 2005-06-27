@@ -1,0 +1,15 @@
+#r|#n Usage:                                                                     #r|
+#r|#n   changes                                                                  #r|
+#r|#n   changes new                                                              #r|
+#r|#n   changes [PAGE]                                                           #r|
+#r|#n                                                                            #r|
+#r|#n The #CCHANGES#n command keeps you informed of what changes have been occuring  #r|
+#r|#n lately.                                                                    #r|
+#r|#n                                                                            #r|
+#r|#n #CCHANGES#n without an argument displays the twenty most recent changes.       #r|
+#r|#n #CCHANGES NEW#n displays only the changes you have not yet read.               #r|
+#r|#n #CCHANGES [PAGE]#n displays twenty changes from a specific page.               #r|
+#r|#n                                                                            #r|
+#r|#n A more comprehensive changelog can be found at the following address. It   #r|
+#r|#n may be a few days old, it just depends on when I remember to upload it.    #r|
+#r|#n                  #Rhttp://undertow.katron.org/changelog.txt                  #r|

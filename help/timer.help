@@ -1,0 +1,11 @@
+#r|#n Usage:                                                                     #r|
+#r|#n   alarm [seconds] [message]                                                #r|
+#r|#n   timer [seconds] [message]                                                #r|
+#r|#n                                                                            #r|
+#r|#n These commands allow you to set a message that will be sent to you after   #r|
+#r|#n the specified amount of seconds. The difference between these commands is  #r|
+#r|#n alarm beeps when the message is sent and timer does not.                   #r|
+#r|#n                                                                            #r|
+#r|#n #RIMPORTANT:#n If you quit the game or if the game is reset (even a copyover)  #r|
+#r|#n the timer will be lost, so I wouldn't use either command for any           #r|
+#r|#n mission-critical purposes.                                                 #r|

@@ -1,0 +1,69 @@
+prompt
+COLORS
+1
+prompt.help
+class classes
+*
+1
+class.help
+alarm timer
+*
+1
+timer.help
+credits
+*
+1
+credits.help
+colors colorcodes ansi
+*
+1
+color.help
+newbie
+*
+1
+newbie.help
+changes news
+*
+1
+changes.help
+bug suggest typo
+*
+1
+suggest.help
+rules
+*
+1
+rules.help
+plutos money bones gold currency
+*
+1
+plutos.help
+levels wizlevels wizlist
+*
+1
+levels.help
+immortal
+*
+5
+immortal.help
+trustee
+*
+6
+trustee.help
+demigod
+*
+8
+demigod.help
+plcreate
+*
+5
+plcreate.help
+website web url www
+*
+1
+website.help
+index help
+*
+1
+help.help
+EOF~

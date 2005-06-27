@@ -1,0 +1,17 @@
+#r|#n In addition to the commands and perks described in #CHELP IMMORTAL#n, you have #r|
+#r|#n the following benefits from being a trustee:                               #r|
+#r|#n                                                                            #r|
+#r|#n #CTRUTALK#n: a comm line for you and the gang. Shortcut is 2 or ;              #r|
+#r|#n #CDELAY#n: delays input of a command for a specified amount of time. See the   #r|
+#r|#n   help file on it.. it's not too confusing once you 'get' it.              #r|
+#r|#n #CUSERS#n: detailed information on each of the sockets.                        #r|
+#r|#n #CDELETE#n: deletes a player.. keep in mind that it doesn't actually delete    #r|
+#r|#n   them, it just prevents them from logging in. Can easily be turned off    #r|
+#r|#n   with the next command. The idea is that they delete the useless player   #r|
+#r|#n   themselves. Dastardly, I know!                                           #r|
+#r|#n #CUNDELETE#n: reverses the affects of deletion                                 #r|
+#r|#n #CDISABLE#n: disables/enables a specific command. Use only if the command is   #r|
+#r|#n   buggy or in some other equally-dire situation.                           #r|
+#r|#n #CINVWIPE#n: deletes a player's entire inventory. It was designed for wiping   #r|
+#r|#n   buggy objects but it can be punitive, too.                               #r|
+#r|#n #CTOUT#n: kicks a player offline. Use if they're flooding the MUD.             #r|

@@ -1,0 +1,6 @@
+#r|#n Usage:                                                                     #r|
+#r|#n   plcreate <name> <width> <height>                                         #r|
+#r|                                                                            |
+#r|#n Creates a plane with name "name" and the first quadrant with a width       #r|
+#r|#n of <width> and a height <height>. In effect the entire plane will be       #r|
+#r|#n four times the area of <width>*<height>                                    #r|

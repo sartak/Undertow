@@ -1,0 +1,23 @@
+#r|#n The colorcodes used in this MUD are as follows:                            #r|
+#r|#n                                                                            #r|
+#r|#n #n##R    #RBright Red        #n##r    #rDark Red                                     #r|
+#r|#n #n##G    #GBright Green      #n##g    #gDark Green                                   #r|
+#r|#n #n##Y    #YBright Yellow     #n##y ##o #yDark Yellow                                  #r|
+#r|#n #n##B    #BBright Blue       #n##b    #bDark Blue                                    #r|
+#r|#n #n##C    #CBright Cyan       #n##c    #cDark Cyan                                    #r|
+#r|#n #n##P ##M #PBright Purple     #n##p ##m #pDark Purple                                  #r|
+#r|#n #n##0    #0Black             #n##1    #1Dark Grey                                    #r|
+#r|#n #n##2    #2Light Grey        #n##3    #3White                                        #r|
+#r|#n                                                                            #r|
+#r|#n The special colorcodes used in this MUD are as follows:                    #r|
+#r|#n                                                                            #r|
+#r|#n ##n ##N Clear colorcodes                                                     #r|
+#r|#n ####    Display a ##                                                          #r|
+#r|#n ##8    Random number (1 through 9)                                          #r|
+#r|#n ##9    Random number (0 through 9)                                          #r|
+#r|#n ##s    #sRandom color (no greys)                                              #r|
+#r|#n ##t    #tRandom dark color (no greys)                                         #r|
+#r|#n ##T    #TRandom bright color (no greys)                                       #r|
+#r|#n ##S    #TR#Severse #Ss#Strength (#Sb#Sright/#Sd#Sark) #So#Sf #Sl#Sast #Sc#Solorcode                     #r|
+#r|#n                                                                            #r|
+#r|#n NB:   The random colorcodes might display differently for each player.     #r|

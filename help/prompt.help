@@ -1,0 +1,22 @@
+#r|#n Usage:                                                                     #r|
+#r|#n   prompt                                                                   #r|
+#r|#n   prompt <newprompt>                                                       #r|
+#r|#n                                                                            #r|
+#r|#n The prompt is what you see after every line of input on the MUD. The       #r|
+#r|#n #CPROMPT#n command lets you control what your prompt is.                       #r|
+#r|#n                                                                            #r|
+#r|#n Alone, the #CPROMPT#n command resets your prompt to the default.               #r|
+#r|#n                                                                            #r|
+#r|#n When supplied with an argument, the #CPROMPT#n sets your prompt to that        #r|
+#r|#n particular string. The MUD supports a number of variables in a prompt, and #r|
+#r|#n they are as follows:                                                       #r|
+#r|#n                                                                            #r|
+#r|#n   %h/%H Your current/max health    %p    Your current primal               #r|
+#r|#n   %m/%M Your current/max mana      %g/%G Your pluto count                  #r|
+#r|#n   %v/%V Your current/max move      %r/%R Your current radiation tolerance  #r|
+#r|#n   %x/%X Your current X-coordinate  %y/%Y Your current Y-coordinate         #r|
+#r|#n   %P    Your current plane         %n/%N Character/account name            #r|
+#r|#n   %t/%T Current server time        %/    Newline                           #r|
+#r|#n                                                                            #r|
+#r|#n The default prompt is: [%pP] [%h/%HH %m/%MM %v/%VV]>                       #r|
+#r|#n If you have suggestions for more variables, please let us know.            #r|

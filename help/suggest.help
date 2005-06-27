@@ -1,0 +1,8 @@
+#r|#n Usage:                                                                     #r|
+#r|#n   suggest <text>                                                           #r|
+#r|#n   typo <text>                                                              #r|
+#r|#n   bug <text>                                                               #r|
+#r|#n                                                                            #r|
+#r|#n These commands let the administration know what's wrong with the MUD, or   #r|
+#r|#n what you would like added. Abuse of these commands is grounds for          #r|
+#r|#n punishment.                                                                #r|
